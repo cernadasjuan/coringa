@@ -1,6 +1,6 @@
 # Coringa
 
-![Alt Text](./assets/coringa.jpeg)
+![Alt Text](https://github.com/cernadasjuan/coringa/raw/master/assets/coringa.jpeg)
 
 Coringa is a Node.js command line tool that mixes the contents of all files in the current directory :clown_face:
 
